@@ -1,1 +1,1 @@
-![[InterBrain.gif]]
+![](media/InterBrain.gif)
